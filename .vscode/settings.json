@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sstream": "c",
+        "bitset": "c",
+        "functional": "c",
+        "iterator": "c"
+    }
+}
